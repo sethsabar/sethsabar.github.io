@@ -3,8 +3,8 @@ layout: page
 title: projects
 permalink: /projects/
 description: some programs I've been working on.
-nav: true
-display_categories: [work, fun]
+nav: false
+display_categories:
 horizontal: false
 ---
 <div class="projects">
